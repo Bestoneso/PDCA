@@ -1,13 +1,13 @@
 # PDCA
 A light-weight digitalization framework for small or medium size companies in automotive industry.
-##Features:
+## Features:
 1.Easy deployment
 2.Light-weighted
 3.Easy to use
 4.Mobility oriented
 5.Embeded hardware compatable
 
-##Key funtions as below:
+## Key funtions as below:
 1.APQP
 2.Quality system
    -Flow chart
